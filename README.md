@@ -8,7 +8,7 @@ The middleware checks if there is a file for the existing request, if the file e
 
 The code for the middleware is very lean, you can just copy/paste into your own project if you prefer.
 
-Check the example hummingbird project [here]('https://github.com/alephao/swift-sacoge/tree/main/Example').
+Check the example hummingbird project [here](https://github.com/alephao/swift-sacoge/tree/main/Example).
 
 ## Getting Started
 
